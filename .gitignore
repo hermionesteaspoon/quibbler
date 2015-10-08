@@ -14,13 +14,13 @@
     display: none;
 }
 .subscribers .number::after {
-    content: " crocheters";
+    content: " Nargle Hunters";
 }
 .users-online .word {
     display: none;
 }
 .users-online .number::after {
-    content: " redditing instead of crocheting";
+    display: none;
 }
 /* ~~ Mindashq.Reddit.Theme
   v1.7g
@@ -2849,3 +2849,605 @@ ul#image-preview-list {
     /*Tweak to match the image color*/
 }
 /*--  C.1.end Header Image ----*/
+
+
+/* NOVELTIES */
+
+a[href="http://www.reddit.com/user/bigtreeworld"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/bigtreeworld"]:after {
+   font-size:11px;
+   content:'Just the coolest guy you will ever meet.';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Garrick_Ollivander"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Garrick_Ollivander"]:after {
+   font-size:11px;
+   content:'Garrick Ollivander';
+   color:#1b3d48;
+}
+
+
+a[href="http://www.reddit.com/user/Moaning_Myrtle"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Moaning_Myrtle"]:after {
+   font-size:11px;
+   content:'Moaning Myrtle';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Filius_Flitwick"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Filius_Flitwick"]:after {
+   font-size:11px;
+   content:'Filius Flitwick';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Padma_Patil"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Padma_Patil"]:after {
+   font-size:11px;
+   content:'Padma Patil';
+   color:#1b3d48;
+}
+
+
+
+a[href="http://www.reddit.com/user/Michael_Corner"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Michael_Corner"]:after {
+   font-size:11px;
+   content:'Michael Corner';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Terry_Boot"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Terry_Boot"]:after {
+   font-size:11px;
+   content:'Terry Boot';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Marietta_Edgecombe"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Marietta_Edgecombe"]:after {
+   font-size:11px;
+   content:'Marietta Edgecombe';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Cho_Chang_Swan"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Cho_Chang_Swan"]:after {
+   font-size:11px;
+   content:'Cho Chang';
+   color:#1b3d48;
+}
+
+
+a[href="http://www.reddit.com/user/Eddie_Carmichael"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Eddie_Carmichael"]:after {
+   font-size:11px;
+   content:'Eddie Carmichael';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Penelope_Clearwater_"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Penelope_Clearwater_"]:after {
+   font-size:11px;
+   content:'Penelope Clearwater';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/PEEVESx"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/PEEVESx"]:after {
+   font-size:11px;
+   content:'Peeves the Poltergeist';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/TheSorting_Hat"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/TheSorting_Hat"]:after {
+   font-size:11px;
+   content:'The Sorting Hat';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/The_GreyLady"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/The_GreyLady"]:after {
+   font-size:11px;
+   content:'The Grey Lady';
+   color:#1b3d48;
+}
+
+a[href="http://www.reddit.com/user/Luna_X_Lovegood"] {
+   font-size:0;
+}
+a[href="http://www.reddit.com/user/Luna_X_Lovegood"]:after {
+   font-size:11px;
+   content:'Luna Lovegood';
+   color:#1b3d48;
+}
+
+/* Spells */
+
+.viewSource {
+   display:none!important;
+}
+
+a[href="#engorgio"] {
+   font-size:25px;
+   color:#000000;
+   font-weight:400;
+}
+
+a[href="#engorgio"]:hover {
+   cursor:text;
+}
+
+a[href="#reducio"] {
+   font-size:10px;
+   color:#000000;
+   font-weight:400;
+}
+
+a[href="#reducio"]:hover {
+   cursor:text;
+}
+
+a[href="#engorgio"] {
+   font-size:25px;
+   color:#000000;
+   font-weight:400;
+}
+
+a[href="#engorgio"]:hover {
+   cursor:text;
+}
+
+a[href="#nox"] {
+   background-color:#000000;
+   color:#000000;
+}
+
+a[href="#nox"]:hover {
+   cursor:text;
+   color:#cccccc;
+}
+
+a[href="#obliviate"] {
+   color:#dddddd;
+   font-weight:400;
+}
+
+a[href="#obliviate"]:hover {
+   color:#cccccc;
+   cursor:text;
+}
+
+a[href="#sonorus"] {
+   color:#ff0000;
+   font-size:22px;
+   font-weight:400;
+}
+
+a[href="#sonorus"]:hover {
+   cursor:text;
+}
+
+/* END SPELLS */
+
+/* FLAIR EDITS */
+.flair-GR:after, .flair-GRH:after, .flair-GRP:after, .flair-GRQ:after, .flair-GRJV:after, .flair-GRQC:after, .flair-GRPRF:after {
+   content:' Reckless magical british cowboy';
+   font-size:11px!important;
+}
+
+.flair-SL:after, .flair-SLH:after, .flair-SLP:after, .flair-SLQ:after, .flair-SLJV:after, .flair-SLQC:after, .flair-SLPRF:after {
+   content:' Just let me have my way, and no one gets hurt';
+   font-size:11px!important;
+}
+
+.flair-HF:after, .flair-HFH:after, .flair-HFP:after, .flair-HFQ:after, .flair-HFJV:after, .flair-HFQC:after, .flair-HFPRF:after {
+   content:' Ask me how to get to the kitchens';
+   font-size:11px!important;
+}
+
+.flair-RV:after, .flair-RVH:after, .flair-RVP:after, .flair-RVQ:after, .flair-RVJV:after, .flair-RVQC:after, .flair-RVPRF:after {
+   content:' Cream of the crop';
+   font-size:11px!important;
+}
+
+.flair-GR, .flair-GRH {
+    background-position: 0 -26px;
+    }
+.flair-SL, .flair-SLH {
+    background-position: 0 -97px;
+    }
+.flair-HF, .flair-HFH {
+    background-position: 0 -50px;
+    }
+.flair-RV, .flair-RVH {
+    background-position: 0 -73px;
+    }
+.flair-DM {
+    font-weight: bold;
+    background-position: 0 -2px;
+    color: #F70418
+    }
+.flair-GRH {
+    font-weight: bold;
+    color: #901006
+    }
+.flair-SLH {
+    font-weight: bold;
+    color: #09540E
+    }
+.flair-HFH {
+    font-weight: bold;
+    color: #E3B000
+    }
+.flair-RVH {
+    font-weight: bold;
+    color: #0f1752
+    }
+.flair-GRP {
+    background-position:0 -307px;
+    }
+.flair-SLP {
+    background-position:0 -377px;
+    }
+.flair-HFP {
+    background-position:0 -330px;
+    }
+.flair-RVP {
+    background-position:0 -354px;
+    }
+.flair-CTKR {
+    background-position: 0 -97px;
+    font-weight: bold;
+    color: #330099
+    }
+.flair-GRQ, .flair-GRJV {
+    background-position: 0 -213px;
+	}
+.flair-GRQC {
+    background-position: 0 -120px;
+    }
+.flair-HFQ {
+    background-position: -1px -236px;
+    }
+.flair-HFQC {
+    background-position: 1px -145px;
+    }
+.flair-RVQ {
+    background-position: 0 -260px;
+    }
+.flair-RVQC {
+    background-position: 0 -167px;
+    }
+.flair-SLQ {
+    background-position: 0 -282px;
+    }
+.flair-SLQC {
+    background-position: 0 -189px;
+    }
+.flair-GRPRF {
+    background-position: 0 -400px;
+    }
+.flair-SLPRF {
+    background-position: 0 -470px;
+    }
+.flair-HFPRF {
+    background-position: 0 -424px;
+    }
+.flair-RVPRF {
+    background-position: 0 -447px;
+    }
+.flair-SANTA {
+    background-position: 0 -497px;
+    }
+.flair-HAT {
+    background-position: 0 -522px;
+}
+
+
+
+/* animations */
+
+a[href$="#eagle"]{
+   display: inline-block;
+   height:200px;
+   width:139px;
+   font-size:0;
+   cursor:default;
+   overflow:hidden;
+   position: absolute;
+   top: 0;
+   left: -139px;
+   z-index:1000000;
+   background: url(%%eagle001%%);
+   background-position: 0 0;
+   -webkit-animation: eagle 5s 2;
+   -moz-animation: eagle 5s 2;
+   animation: eagle 5s 2;
+   margin-top: -100px;
+}
+
+@-webkit-keyframes eagle {
+	0%{
+		background: url(%%eagle001%%);
+		top:5px;
+	}5%{
+		background: url(%%eagle002%%);
+		top:100px;
+	}10%{
+		background: url(%%eagle003%%);
+		top:80px;
+	}15%{
+		background: url(%%eagle004%%);
+		top:25px;
+	}20%{
+		background: url(%%eagle005%%);
+		top:102px;
+	}25%{
+		background: url(%%eagle006%%);
+		top:5px;
+	}30%{
+		background: url(%%eagle007%%);
+		top:100px;
+	}35%{
+		background: url(%%eagle008%%);
+		top:80px;
+	}40%{
+		background: url(%%eagle009%%);
+		top:5px;
+	}45%{
+		background: url(%%eagle001%%);
+		top:100px;
+		-moz-transform: scaleX(1);
+		-o-transform: scaleX(1);
+		-webkit-transform: scaleX(1);
+		transform: scaleX(1);
+	}50%{
+		background: url(%%eagle002%%);
+		top:80px;
+		left: 90%;
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}55%{
+		background: url(%%eagle003%%);
+		top:25px;
+	}60%{
+		background: url(%%eagle004%%);
+		top:102px;
+	}65%{
+		background: url(%%eagle005%%);
+		top:5px;
+	}70%{
+		background: url(%%eagle006%%);
+		top:100px;
+	}75%{
+		background: url(%%eagle007%%);
+		top:80px;
+	}80%{
+		background: url(%%eagle008%%);
+		top:25px;
+        }85%{
+		background: url(%%eagle009%%);
+		top:102px;
+	}90%{
+		background: url(%%eagle001%%);
+		top:5px;
+	}95%{
+		background: url(%%eagle002%%);
+		top:100px;
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}100%{
+		background: url(%%eagle003%%);
+                top:80px;
+                left:-139px;
+		-moz-transform: scaleX(1);
+		-o-transform: scaleX(1);
+		-webkit-transform: scaleX(1);
+		transform: scaleX(1);
+        }
+}
+
+@keyframes eagle {
+	0%{
+		background: url(%%eagle001%%);
+		top:5px;
+	}5%{
+		background: url(%%eagle002%%);
+		top:100px;
+	}10%{
+		background: url(%%eagle003%%);
+		top:80px;
+	}15%{
+		background: url(%%eagle004%%);
+		top:25px;
+	}20%{
+		background: url(%%eagle005%%);
+		top:102px;
+	}25%{
+		background: url(%%eagle006%%);
+		top:5px;
+	}30%{
+		background: url(%%eagle007%%);
+		top:100px;
+	}35%{
+		background: url(%%eagle008%%);
+		top:80px;
+	}40%{
+		background: url(%%eagle009%%);
+		top:5px;
+	}45%{
+		background: url(%%eagle001%%);
+		top:100px;
+		-moz-transform: scaleX(1);
+		-o-transform: scaleX(1);
+		-webkit-transform: scaleX(1);
+		transform: scaleX(1);
+	}50%{
+		background: url(%%eagle002%%);
+		top:80px;
+		left: 90%;
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}55%{
+		background: url(%%eagle003%%);
+		top:25px;
+	}60%{
+		background: url(%%eagle004%%);
+		top:102px;
+	}65%{
+		background: url(%%eagle005%%);
+		top:5px;
+	}70%{
+		background: url(%%eagle006%%);
+		top:100px;
+	}75%{
+		background: url(%%eagle007%%);
+		top:80px;
+	}80%{
+		background: url(%%eagle008%%);
+		top:25px;
+        }85%{
+		background: url(%%eagle009%%);
+		top:102px;
+	}90%{
+		background: url(%%eagle001%%);
+		top:5px;
+	}95%{
+		background: url(%%eagle002%%);
+		top:100px;
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}100%{
+		background: url(%%eagle003%%);
+                top:80px;
+                left:-139px;
+		-moz-transform: scaleX(1);
+		-o-transform: scaleX(1);
+		-webkit-transform: scaleX(1);
+		transform: scaleX(1);
+        }
+}
+
+@-moz-keyframes eagle {
+	0%{
+		background: url(%%eagle001%%);
+		top:5px;
+	}5%{
+		background: url(%%eagle002%%);
+		top:100px;
+	}10%{
+		background: url(%%eagle003%%);
+		top:80px;
+	}15%{
+		background: url(%%eagle004%%);
+		top:25px;
+	}20%{
+		background: url(%%eagle005%%);
+		top:102px;
+	}25%{
+		background: url(%%eagle006%%);
+		top:5px;
+	}30%{
+		background: url(%%eagle007%%);
+		top:100px;
+	}35%{
+		background: url(%%eagle008%%);
+		top:80px;
+	}40%{
+		background: url(%%eagle009%%);
+		top:5px;
+	}45%{
+		background: url(%%eagle001%%);
+		top:100px;
+		-moz-transform: scaleX(1);
+		-o-transform: scaleX(1);
+		-webkit-transform: scaleX(1);
+		transform: scaleX(1);
+	}50%{
+		background: url(%%eagle002%%);
+		top:80px;
+		left: 90%;
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}55%{
+		background: url(%%eagle003%%);
+		top:25px;
+	}60%{
+		background: url(%%eagle004%%);
+		top:102px;
+	}65%{
+		background: url(%%eagle005%%);
+		top:5px;
+	}70%{
+		background: url(%%eagle006%%);
+		top:100px;
+	}75%{
+		background: url(%%eagle007%%);
+		top:80px;
+	}80%{
+		background: url(%%eagle008%%);
+		top:25px;
+        }85%{
+		background: url(%%eagle009%%);
+		top:102px;
+	}90%{
+		background: url(%%eagle001%%);
+		top:5px;
+	}95%{
+		background: url(%%eagle002%%);
+		top:100px;
+		-moz-transform: scaleX(-1);
+		-o-transform: scaleX(-1);
+		-webkit-transform: scaleX(-1);
+		transform: scaleX(-1);
+	}100%{
+		background: url(%%eagle003%%);
+                top:80px;
+                left:-139px;
+		-moz-transform: scaleX(1);
+		-o-transform: scaleX(1);
+		-webkit-transform: scaleX(1);
+		transform: scaleX(1);
+        }
+}
